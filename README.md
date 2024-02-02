@@ -10,6 +10,5 @@ Hi, I'm Syril Jacob, a third-year Software Engineering student at the University
 name=syrilj&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=syrilj&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
