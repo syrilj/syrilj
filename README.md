@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Syril Jacob, a third-year Software Engineering student at the University of Calgary. I'm on a mission to gain hands-on experience and learn from talented industry professionals. Proficient in languages like Python, Java, and C++, I'm eager to contribute innovative solutions to real-world challenges. My passion for technology and drive to make a meaningful impact fuel my active search for opportunities to collaborate and grow in the dynamic field of software engineering.
+Hi, I'm Syril Jacob, a Software Engineering student at the University of Calgary. I aim to gain hands-on experience and learn from talented industry professionals. Proficient in languages like Python, Java, and C++, I'm eager to contribute innovative solutions to real-world challenges. My passion for technology and drive to make a meaningful impact fuel my active search for opportunities to collaborate and grow in the dynamic field of software engineering.
 
 
 ## 🌐 Socials:
